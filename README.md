@@ -1,6 +1,8 @@
 #  Installation
 
 This is docker config for https://github.com/ArtNazarov/htmlbuilder-python-bridge
+Serverside use wsgi_mod and Flask as reverse proxy with port 8080
+
 
 1. Clone repository
 2. Build in project folder
